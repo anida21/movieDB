@@ -1,0 +1,30 @@
+
+.div{
+    border-style:solid;
+    border-radius: 5px;
+    margin-top: 5px;
+    width: 34%;
+    background-color: rgba(255, 255, 255, 0.8);
+    font-size: 30px;
+    display:inline-grid;
+  grid-gap: 50px;
+  padding: 3px;
+    
+}
+
+
+#title{
+    text-align: center;
+    border: 10px;
+}
+
+#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    
+}
+
+.grid{
+    text-align: center;}

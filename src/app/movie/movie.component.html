@@ -1,0 +1,7 @@
+<div class="grid">
+<div *ngFor="let movie of results" class="div">
+    <img id="img" [src]="'http://image.tmdb.org/t/p/w500' + movie.poster_path"/>
+    <p id="title">{{movie.title}}</p>
+</div>
+</div>
+
